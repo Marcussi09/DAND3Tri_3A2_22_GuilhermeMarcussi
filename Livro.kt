@@ -1,9 +1,1 @@
-package com.cotemig.prova
-
-data class Livro(
-    val id: Int,
-    val titulo: String,
-    val autor: String,
-    val paginas: Int,
-    val resumo: String
-)
+// Moved to app/src/main/java/com/cotemig/prova/data/Livro.kt.
